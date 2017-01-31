@@ -1,0 +1,10 @@
+Package: com.martinpham.swipe2killall
+Name: swipe2killall
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: Swipe Homescreen card in AppSwitcher to kill all apps
+Maintainer: MartinPham
+Author: MartinPham
+Section: Tweaks
+Version: 0.0.1-3+debug
+Installed-Size: 124
