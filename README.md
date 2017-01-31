@@ -4,7 +4,7 @@ A Little iOS tweak, allow swiping Homescreen card in AppSwitcher to kill all app
 
 1) Install
 
-Use (/packages/com.martinpham.swipe2killall_0.0.1-3+debug_iphoneos-arm) to install.
+Use [DEB file](/packages/com.martinpham.swipe2killall_0.0.1-3+debug_iphoneos-arm.deb) to install.
 
 2) Build
 
