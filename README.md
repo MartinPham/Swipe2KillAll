@@ -1,6 +1,6 @@
 Swipe 2 Kill All
 =====
-Swipe Homescreen card in AppSwitcher to kill all apps
+A Little iOS tweak, allow swiping Homescreen card in AppSwitcher to kill all apps. Support iOS 10
 
 1) Install
 
