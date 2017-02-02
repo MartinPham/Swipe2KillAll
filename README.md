@@ -4,7 +4,7 @@ A Little iOS tweak, allow swiping Homescreen card in AppSwitcher to kill all app
 
 1) Install
 
-Add Cydia repo http://martinpham.gitlab.io/cydia then search TouchHome
+Add Cydia repo http://martinpham.gitlab.io/cydia then search Swipe 2 Kill All
 
 or
 
